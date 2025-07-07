@@ -17,7 +17,7 @@ The cloud (Azure, AWS, Google, etc.) is a platform that will allow you to rent s
 
 <p align="center"><b>
 #1. Create or Sign In to your Azure Account: <br/>
-<img src="https://i.imgur.com/4O5U8mZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4O5U8mZ.png" height="80%" width="80%"/>
 <br />
 <br />
 #2. Observe Azure's Portal:  <br/>
